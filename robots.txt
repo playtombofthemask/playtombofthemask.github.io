@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://playtombofthemask.github.io/sitemap.xml
